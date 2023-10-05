@@ -1,0 +1,26 @@
+h1 {
+    color: green;
+
+}
+
+p {
+    color: goldenrod;
+
+}
+
+ul {
+    color: goldenrod;
+
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
